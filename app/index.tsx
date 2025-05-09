@@ -10,7 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="font-bold text-2xl text-red-800">Welcome Alaa ❤️</Text>
+      <Text className="font-bold text-2xl text-dark-200">Welcome Alaa ❤️</Text>
     </View>
   );
 }
